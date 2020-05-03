@@ -1,1 +1,2 @@
-"# angular-8-shoppingCart" 
+# angular-8-shoppingCart 
+![image](carrito.png)
